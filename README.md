@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timon Käch</h1>
 <h3 align="center">Full stack developer and owner of cybertimon</h3>
 
-- 🔭 I’m currently working on **Skynet using local language models**
+- 🔭 I’m currently working on **CT AI** - An ai plattform which operates completely offline.
 
 - 🌱 I’m currently learning **C++ and ML**
 
