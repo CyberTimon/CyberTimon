@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **timon@cybertimon.ch**
 
-- ⚡ Fun fact **Attention Is All You Need**
+- ⚡ Fun fact **8x7B Models Are All You Need**
 
 <h3 align="left">Want to support me?</h3>
 
