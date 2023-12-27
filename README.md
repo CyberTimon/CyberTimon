@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Timon Käch</h1>
 <h3 align="center">Full stack developer and owner of cybertimon</h3>
 
-- 🔭 I’m currently working on **CT AI** - An ai plattform which operates completely offline.
+- 🔭 I’m currently working on **[CT AI](ai.cybertimon.ch)** - An ai plattform which operates completely offline.
 
-- 🌱 I’m currently learning **C++ and ML**
+- 🌱 I’m currently learning **Machine Learning with [PyTorch](https://pytorch.org/features/)**
 
 - 🚗 I created this racing game [StylizedDrift](https://cybertimon.ch/stylizeddrift/)
 
@@ -12,6 +12,30 @@
 - 📫 How to reach me **timon@cybertimon.ch**
 
 - ⚡ Fun fact **8x7B Models Are All You Need**
+
+<h3 align="left">Experience</h3>
+
+* **Game Developer**, (2019 - 2022)
+  * Created a racing game called [StylizedDrift](https://cybertimon.ch/stylizeddrift/) using Unreal Engine.
+  * Coded various game knock-off's like [FallMönsch](https://cybertimon.itch.io/fallmoensch) 
+  * Made 3D projects and games for friends
+
+* **Web Development**, (2020 - Present)
+  * Learned Wordpress and made various sites with it
+  * Experience in flask and the frontend stack
+  * Started with python
+ 
+* **Hack Small Things**, (2020 - 2023)
+  * I love Hackintosh and installed it on various toasters
+  * When I'm bored, I just install Minecraft on my watch
+
+* **Machine Learning Enthusiast**, (2022 - Present)
+  * Started getting interested in machine learning
+  * Trained various image and text based AI models
+  * Started coding my AI platform **[CT AI](ai.cybertimon.ch)**
+
+* **Computer Scientist**, BitHawk AG (Present)
+  * Pursuing an apprenticeship.
 
 <h3 align="left">Want to support me?</h3>
 
