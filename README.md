@@ -28,11 +28,13 @@
 * **Hack Small Things**, (2020 - 2023)
   * I love Hackintosh and installed it on various toasters
   * When I'm bored, I just install Minecraft on my watch
+  * It's amazing to overclock my old GT 710 to squeeze every last fps out of it
 
 * **Machine Learning Enthusiast**, (2022 - Present)
   * Started getting interested in machine learning
   * Trained various image and text based AI models
   * Started coding my AI platform **[CT AI](ai.cybertimon.ch)**
+  * Build myself a powerfull home server
 
 * **Computer Scientist**, BitHawk AG (Present)
   * Pursuing an apprenticeship.
