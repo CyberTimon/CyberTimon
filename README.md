@@ -25,7 +25,7 @@
   * Experience in flask and the frontend stack
   * Started with python
  
-* **Hack Small Things**, (2020 - 2023)
+* **Hack Small Things**, (Indefinite duration)
   * I love Hackintosh and installed it on various toasters
   * When I'm bored, I just install Minecraft on my watch
   * It's amazing to overclock my old GT 710 to squeeze every last fps out of it
