@@ -34,7 +34,7 @@
   * Started getting interested in machine learning
   * Trained various image and text based AI models
   * Started coding my AI platform **[CT AI](ai.cybertimon.ch)**
-  * Build myself a powerfull home server
+  * Build myself a powerful home server
 
 * **Computer Scientist**, BitHawk AG (Present)
   * Pursuing an apprenticeship.
