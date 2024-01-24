@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timon Käch</h1>
-<h3 align="center">Full stack developer and owner of cybertimon</h3>
+<h3 align="center">Full stack developer and owner of CyberTimon</h3>
 
 - 🔭 I’m currently working on **[CT AI](ai.cybertimon.ch)** - An ai plattform which operates completely offline.
 
