@@ -35,6 +35,7 @@
   * Trained various image and text based AI models
   * Started coding my AI platform **[CT AI](https://ai.cybertimon.ch)**
   * Built myself a powerful home server
+  * Contributed to [Open Assistant](https://open-assistant.io/)
 
 * **Computer Scientist**, BitHawk AG (Present)
   * Pursuing an apprenticeship.
