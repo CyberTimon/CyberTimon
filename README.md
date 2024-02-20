@@ -37,7 +37,7 @@
   * Built myself a powerful home server
   * Contributed to [Open Assistant](https://open-assistant.io/)
 
-* **Computer Scientist**, BitHawk AG (Present)
+* **Computer Scientist**, (Present)
   * Pursuing an apprenticeship.
 
 <h3 align="left">Want to support me?</h3>
