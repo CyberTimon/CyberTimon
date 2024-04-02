@@ -33,7 +33,7 @@
 * **Machine Learning Enthusiast**, (2022 - Present)
   * Started getting interested in machine learning
   * Trained various image and text based AI models
-  * Started coding my AI platform **[CT AI](https://ai.cybertimon.ch)**
+  * Started coding my AI platform **[CT AI](https://www.ct-ai.ch/)**
   * Built myself a powerful home server
   * Contributed to [Open Assistant](https://open-assistant.io/)
 
