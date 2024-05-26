@@ -27,7 +27,7 @@
  
 * **Hack Small Things**, (Indefinite duration)
   * I love Hackintosh
-  * Installing Minecraft on smartwatches
+  * Installed Minecraft on smartwatches
   * Decompiling software
   * Overclocking and modding graphics cards
 
