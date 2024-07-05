@@ -14,15 +14,14 @@
 <h3 align="left">Experience</h3>
 
 * **Game Developer**, (2019 - 2022)
-  * Created a racing game called **[StylizedDrift](https://cybertimon.ch/stylizeddrift/)** using Unity.
+  * Created a racing game called **[StylizedDrift](https://cybertimon.ch/stylizeddrift/)** using Unity
   * Coded various game knock-off's like **[FallMönsch](https://cybertimon.itch.io/fallmoensch)**
   * Unreal Engine experience
   * Made 3D projects and games for friends
 
 * **Web Development**, (2020 - Present)
   * Learned Wordpress and made various sites with it
-  * Experience in Flask and the frontend stack
-  * Started with Python
+  * Good experience in Flask and the frontend stack
   * Experience in **[ServiceNow](https://www.servicenow.com/)** and JavaScript
  
 * **Hack Small Things**, (Indefinite duration)
@@ -40,11 +39,11 @@
  
 * **Finance**, (2021 - Present)
   * Forex market analysis and trading strategies
-  * Cryptocurrency mining and blockchain development
-  * Very interested in Algorithmic trading
+  * Experience in cryptocurrency mining and blockchain technology
+  * Very interested in Algorithmic trading (C#)
 
 * **Computer Scientist**, (Present)
-  * Pursuing an apprenticeship.
+  * Pursuing an apprenticeship
 
 <h3 align="left">Want to support me?</h3>
 
