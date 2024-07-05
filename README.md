@@ -40,7 +40,7 @@
 * **Finance**, (2021 - Present)
   * Forex market analysis and trading strategies
   * Experience in cryptocurrency mining and blockchain technology
-  * Very interested in Algorithmic trading (C#)
+  * Very interested in algorithmic trading (C#)
 
 * **Computer Scientist**, (Present)
   * Pursuing an apprenticeship
