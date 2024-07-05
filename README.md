@@ -37,6 +37,11 @@
   * Started coding my AI platform **[CT AI](https://www.ct-ai.ch/)**
   * Built myself a powerful home server
   * Contributed to **[Open Assistant](https://open-assistant.io/)** ([Contributors](https://www.ykilcher.com/oa-contributors))
+ 
+* **Finance**, (2021 - Present)
+  * Forex market analysis and trading strategies
+  * Cryptocurrency mining and blockchain development
+  * Very interested in Algorithmic trading
 
 * **Computer Scientist**, (Present)
   * Pursuing an apprenticeship.
