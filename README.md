@@ -25,7 +25,7 @@
   * Experience in **[ServiceNow](https://www.servicenow.com/)** and JavaScript
  
 * **Hack Small Things**, (Indefinite duration)
-  * I love Hackintosh
+  * I like Hackintosh
   * Installed Minecraft on smartwatches
   * Decompiling software
   * Overclocking and modding graphics cards
