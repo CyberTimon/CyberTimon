@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timon@cybertimon.ch**
 
-- ⚡ Fun fact **8B Parameters Are All You Need**
+- ⚡ Fun fact **22B Parameters Are All You Need**
 
 <h3 align="left">Experience</h3>
 
