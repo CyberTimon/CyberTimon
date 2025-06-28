@@ -31,7 +31,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/CyberTimon/RapidRAW">
-        <img src="https://raw.githubusercontent.com/CyberTimon/RapidRAW/main/github_assets/editor.png" alt="RapidRAW Editor Screenshot" style="max-width: 100%; border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/CyberTimon/RapidRAW/main/.github/assets/editor.png" alt="RapidRAW Editor Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
@@ -69,10 +69,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
 - **Game Development:** Developed the 3D racing game [StylizedDrift](https://cybertimon.ch/stylizeddrift/) with Unity and C#.
 - **Systems & Hardware:** Proficient in system modification, hardware overclocking, and building Hackintosh systems.
 
-## 📊 My GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybertimon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Timon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertimon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
