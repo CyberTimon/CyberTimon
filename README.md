@@ -1,4 +1,4 @@
-# Timon Käch
+<h1 align="center">Timon Käch</h1>
 <h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Photographer</h3>
 
 <p align="center">
@@ -75,7 +75,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
 
 ---
 
-### ❤️ Support My Work
+### Support My Work
 
 If you like what I do, consider supporting me. It helps me dedicate more time to open-source development.
 
