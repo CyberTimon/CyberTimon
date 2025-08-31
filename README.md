@@ -20,7 +20,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
   <tr>
     <td valign="top">
       <h3><a href="https://github.com/CyberTimon/RapidRAW">RapidRAW</a></h3>
-      <p>A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. Designed as a lightweight, cross-platform alternative to Adobe Lightroom, it features a fully custom WGSL shader pipeline for real-time adjustments.</p>
+      <p>A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. Designed as a lightweight, cross-platform alternative to Adobe Lightroom®, it features a fully custom WGSL shader pipeline for real-time adjustments.</p>
       <p>
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
