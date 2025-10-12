@@ -31,7 +31,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/CyberTimon/RapidRAW">
-        <img src="https://raw.githubusercontent.com/CyberTimon/RapidRAW/main/.github/assets/editor.png" alt="RapidRAW Editor Screenshot" style="max-width: 100%; border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/CyberTimon/RapidRAW/assets/.github/assets/editor.png" alt="RapidRAW Editor Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
