@@ -69,10 +69,6 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
 - **Game Development:** Developed the 3D racing game [StylizedDrift](https://cybertimon.ch/stylizeddrift/) with Unity and C#.
 - **Systems & Hardware:** Proficient in system modification, hardware overclocking, and building Hackintosh systems.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertimon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 ---
 
 ### Support My Work
