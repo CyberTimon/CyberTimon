@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89466840-ddb2-4cc1-bed5-29ced8f2edcc" width="100%" />
+</p>
+
 <h1 align="center">Timon Käch</h1>
 <h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Photographer</h3>
 
@@ -10,7 +14,7 @@
 
 <br>
 
-I'm a passionate developer and photographer from Switzerland, driven by the challenge of building efficient, impactful software. My journey is fueled by a love for machine learning and creating high-performance applications from the ground up. I thrive on ambitious projects, like developing a feature-rich RAW image editor in just two weeks.
+I'm a developer and photographer from Switzerland, driven by the challenge of building efficient, impactful software. My journey is fueled by a love for machine learning and creating high-performance applications from the ground up. I thrive on ambitious projects, like developing a feature-rich RAW image editor in just two weeks.
 
 ---
 
@@ -43,7 +47,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
 
 - **Building [CT AI](https://www.ct-ai.ch/):** Developing my vision for a privacy-focused AI platform.
 - **Deepening ML Expertise:** Training and deploying image and text models with PyTorch on a dedicated home server.
-- **Algorithmic Trading:** Engineering and backtesting automated trading strategies for Forex markets using C#.
+- **Algorithmic Trading:** Engineering and backtesting automated trading strategies for Forex markets.
 
 ## My Tech Stack & Core Competencies
 
@@ -56,6 +60,7 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
   <!-- Frameworks & Platforms -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/wgpu-%23282C34.svg?style=for-the-badge&logo=webgpu&logoColor=white" alt="WGPU"/>
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -65,8 +70,8 @@ I'm a passionate developer and photographer from Switzerland, driven by the chal
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-- **Machine Learning:** Contributor to the [Open Assistant](https://open-assistant.io/) project and experienced in the full ML lifecycle.
-- **Game Development:** Developed the 3D racing game [StylizedDrift](https://cybertimon.ch/stylizeddrift/) with Unity and C#.
+- **Machine Learning:** Contributor to the [Open Assistant](https://github.com/LAION-AI/Open-Assistant) project and experienced in the full ML lifecycle.
+- **Game Development:** Developed the 3D racing game [StylizedDrift](https://cybertimon.itch.io/stylizeddrift) with Unity and C#.
 - **Systems & Hardware:** Proficient in system modification, hardware overclocking, and building Hackintosh systems.
 
 ---
