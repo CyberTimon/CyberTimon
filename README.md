@@ -43,12 +43,6 @@ I'm a developer and photographer from Switzerland, driven by the challenge of bu
 
 ---
 
-## What I'm Focused On
-
-- **Building [CT AI](https://www.ct-ai.ch/):** Developing my vision for a privacy-focused AI platform.
-- **Deepening ML Expertise:** Training and deploying image and text models with PyTorch on a dedicated home server.
-- **Algorithmic Trading:** Engineering and backtesting automated trading strategies for Forex markets.
-
 ## My Tech Stack & Core Competencies
 
 <p align="center">
