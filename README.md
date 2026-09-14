@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9399dbb5-eadd-4995-8d5a-86d2b7ea0460" width="100%" />
+  <img src="https://github.com/user-attachments/assets/19d6f84c-4ea3-42f8-a3de-71343bd8a2f0" width="100%" />
 </p>
 
 <h1 align="center">Timon Käch</h1>
