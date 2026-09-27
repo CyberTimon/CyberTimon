@@ -6,8 +6,6 @@
 <h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Photographer</h3>
 
 <p align="center">
-  <a href="https://github.com/CyberTimon"><strong>GitHub</strong></a> ·
-  <a href="https://www.ct-ai.ch/"><strong>CT AI</strong></a> ·
   <a href="mailto:timon@cybertimon.ch"><strong>Contact Me</strong></a> ·
   <a href="https://ko-fi.com/cybertimon"><strong>Support My Work</strong></a>
 </p>
